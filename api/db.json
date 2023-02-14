@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "name": "kirti",
+      "email": "admin@gmail.com",
+      "password": "111",
+      "id": 1
+    },
+    {
+      "name": "rtrt",
+      "email": "23",
+      "password": "22",
+      "id": 2
+    },
+    {
+      "name": "swrer",
+      "email": "abcp1q2xyz@gmail.com",
+      "password": "111",
+      "id": 3
+    },
+    {
+      "name": "djhfjg",
+      "email": "rtrtrt@hfdjg.dfg",
+      "password": "111",
+      "id": 4
+    }
+  ],
+  "restarunt": [
+    {
+      "rname": "Dominoz",
+      "address": "Noida sector 80",
+      "contact": 9834956556,
+      "id": 1
+    },
+    {
+      "rname": "Lapinoz",
+      "address": "shyamal cross road 2",
+      "contact": 3434355642,
+      "id": 2
+    },
+    {
+      "rname": "Lamilano",
+      "address": "urmi bazar main road",
+      "contact": 56466566,
+      "id": 3
+    }
+  ]
+}
